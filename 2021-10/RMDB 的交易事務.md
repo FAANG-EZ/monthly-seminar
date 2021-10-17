@@ -5,13 +5,16 @@ slideOptions:
 ---
 # RMDB 的交易事務
 
+[![hackmd-github-sync-badge](https://hackmd.io/p98jzc9cToyNJwVAjgsXuw/badge)](https://hackmd.io/p98jzc9cToyNJwVAjgsXuw)
+
+
 ---
 
 # 交易簡介
 
 交易(Transaction)是一個單元工作(unit of work)，包括一個起始點，標註交易開始，這個單元工作包括了數個步驟來完成，交易結束時的動作有兩個，數個步驟全部執行成功，交易才算成功並提交變更(**Commit**)，只有當中有一個失敗，則整個交易宣告失敗並回復所有變更(**Rollback**)。
 
-也就是說交易是為了滿足 **ACID** 中所謂的**原子性(Atomicity)**而生。
+也就是說交易是為了滿足 **ACID** 中所謂的 **原子性(Atomicity)** 而生。
 
 ---
 
