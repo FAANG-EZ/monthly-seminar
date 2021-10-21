@@ -3,7 +3,7 @@ slideOptions:
   spotlight:
     enabled: true
 ---
-# RMDB 的交易事務
+# RDBMS 的交易事務
 
 [![hackmd-github-sync-badge](https://hackmd.io/p98jzc9cToyNJwVAjgsXuw/badge)](https://hackmd.io/p98jzc9cToyNJwVAjgsXuw)
 
