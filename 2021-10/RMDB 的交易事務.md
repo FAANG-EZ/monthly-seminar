@@ -1,4 +1,6 @@
 ---
+title: RDBMS 的交易事務
+tags: Monthly-Seminar
 slideOptions:
   spotlight:
     enabled: true
