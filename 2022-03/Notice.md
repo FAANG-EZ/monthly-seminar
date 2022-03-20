@@ -9,4 +9,6 @@
 - [Louis](https://github.com/SZLforGithub)
 
 ## 主題
-- [OAuth system design (TBD)]()
+- [Peter TBD]()
+- [測試是什麼？有什麼用嗎？](https://hackmd.io/@sexualColdTreatment/HJrvUg4M9#/)
+- 耍廢一週，以面試簡報代替
