@@ -10,3 +10,5 @@
 
 ## 主題
 - [Peter GC & ORM](https://docs.google.com/presentation/d/1x_O1AQBwFHxM5g0dyg4xX_J38Glv8tWPUNc0jvvBuZ4/edit#slide=id.g125a100cdc8_0_22)
+- [Message Queue 概述](https://hackmd.io/@sexualColdTreatment/By_9gBMH5)
+- [System-design - 驗證與授權 ⚙️](https://hackmd.io/@sexualColdTreatment/BJVz6zcSq)
